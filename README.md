@@ -41,7 +41,7 @@
 
 ### Генерация и эволюция пещеры
 
-[Анимация генерации пещеры](main/resources/images/cave_generation.webm)
+![Генерация и эволюция пещеры](main/resources/images/cave_generation.gif)
 
 ## Используемые алгоритмы
 
